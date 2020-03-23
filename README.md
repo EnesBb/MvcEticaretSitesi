@@ -60,17 +60,6 @@ E-Ticaret sitesi olarak yazılan bu proje de kullanıcı sitede istediği katego
 2)	Ek veritabanı
 3)	Backend kodları yazılacak(Tarık ile ortak çalışarak)
 
-#	CEM
-1)	Frontend Kodları yazılacak ve Gökhan ile birlikte ortaklaşa çalışacaklar.
-
-#	GÖKHAN
-1)	Frontend Kodları yazılacak ve Cem ile birlikte ortaklaşa çalışacaklar.
-
-#	OZAN
-1)	Api Entegrasyonu E Ticaret
-
-#	Alp
-1)	Proje master’a gelmeden önce detaylı test işleminden geçecek.
 
 
 
@@ -190,7 +179,7 @@ c)	Queries:
 2)	Tarık => 4 gün  (Api entegrasyonu Kargo)------- Yapıldı (15.11.2019)
 3)	Enes => 4 gün (Loglama ve ek veri tabanı) ----- (Yapılıyor...)
 4)	Ozan => (Api Entegrasyonu E Ticaret) -------- daha zamanı var
-5)  Kasım 18 Tarık (Api),Enes(Loglama) ve Esra veritabanı bitiyor... (sadece Enes kaldı !!!)
+5)  Kasım 18 Tarık (Api),Enes(Loglama) ve Esra veritabanı bitiyor... 
 6)  Aralık 5 Tarık ve Enes Backend bitişi...
 7)  Aralık 10 Cem ve Gökhan Frontend bitişi...
 8)  Aralık 13 Ozan Api Entegrasyon Bitişi...
